@@ -16,7 +16,7 @@ export default function Home() {
          <meta name="description" content="Home"/>
         
       </Head>
-    <Navbar/>
+    {/* <Navbar/> */}
     <div className={styles.leftMargin}>
      <Services/>
     {/* <Products/> */}

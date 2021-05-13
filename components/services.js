@@ -27,7 +27,7 @@ export default function Service() {
         <ServiceCard />
        </Row>
        </section>
-      
+      //git
       
   )
 }
